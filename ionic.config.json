@@ -1,0 +1,7 @@
+{
+  "name": "Segurtodo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
